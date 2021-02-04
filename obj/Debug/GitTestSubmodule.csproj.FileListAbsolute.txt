@@ -1,0 +1,5 @@
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestSubmodule\bin\Debug\GitTestSubmodule.dll
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestSubmodule\bin\Debug\GitTestSubmodule.pdb
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestSubmodule\obj\Debug\GitTestSubmodule.csprojResolveAssemblyReference.cache
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestSubmodule\obj\Debug\GitTestSubmodule.dll
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestSubmodule\obj\Debug\GitTestSubmodule.pdb
